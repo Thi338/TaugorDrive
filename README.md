@@ -26,9 +26,7 @@ yarn install
 3. Run project on iOS / Android.
 
 ```js
- npm run ios // npm run android
- // or
- yarn ios // yarn android
+ expo start
 ```
 
 ## Preview
